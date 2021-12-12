@@ -1,0 +1,1 @@
+{"version":3,"file":"Multiplication.d.ts","sourceRoot":"","sources":["../../src/operators/Multiplication.ts"],"names":[],"mappings":"AAAA,OAAO,QAAQ,EAAE,EAAE,mBAAmB,EAAE,MAAM,YAAY,CAAC;AAE3D,MAAM,CAAC,OAAO,OAAO,cAAe,SAAQ,QAAQ;IAChD,MAAM,EAAE,GAAG,CAAO;IAElB,KAAK,CAAC,QAAQ,EAAE,mBAAmB;IAMnC,IAAI,WAAW,IAAI,MAAM,CAExB;CACJ"}

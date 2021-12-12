@@ -1,0 +1,1 @@
+{"version":3,"file":"Multiplication.js","sourceRoot":"","sources":["../../src/operators/Multiplication.ts"],"names":[],"mappings":";;;;;AAAA,0DAA2D;AAE3D,MAAqB,cAAe,SAAQ,kBAAQ;IAApD;;QACI,WAAM,GAAQ,GAAG,CAAC;IAWtB,CAAC;IATG,KAAK,CAAC,QAA6B;QAC/B,IAAI,QAAQ,KAAK,GAAG;YAAE,OAAO,IAAI,CAAC;;YAE9B,OAAO,KAAK,CAAC;IACrB,CAAC;IAED,IAAI,WAAW;QACX,OAAO,CAAC,CAAC;IACb,CAAC;CACJ;AAZD,iCAYC"}

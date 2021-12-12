@@ -1,0 +1,1 @@
+{"version":3,"file":"CloseNegation.d.ts","sourceRoot":"","sources":["../../src/operators/CloseNegation.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,mBAAmB,EAAE,MAAM,YAAY,CAAC;AACjD,OAAO,SAAS,MAAM,aAAa,CAAC;AACpC,OAAO,QAAQ,MAAM,YAAY,CAAC;AAElC,MAAM,CAAC,OAAO,OAAO,aAAc,SAAQ,QAAQ;IAC/C,MAAM,EAAE,GAAG,CAAO;IAElB,KAAK,CAAC,QAAQ,EAAE,mBAAmB;IAOnC,IAAI,WAAW,IAAI,MAAM,CAExB;CACJ"}

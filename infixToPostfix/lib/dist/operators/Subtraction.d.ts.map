@@ -1,0 +1,1 @@
+{"version":3,"file":"Subtraction.d.ts","sourceRoot":"","sources":["../../src/operators/Subtraction.ts"],"names":[],"mappings":"AAAA,OAAO,QAAQ,MAAM,YAAY,CAAC;AAClC,OAAO,QAAQ,EAAE,EAAE,mBAAmB,EAAE,MAAM,YAAY,CAAC;AAE3D,MAAM,CAAC,OAAO,OAAO,WAAY,SAAQ,QAAQ;IAC7C,MAAM,EAAE,GAAG,CAAO;IAElB,KAAK,CAAC,QAAQ,EAAE,mBAAmB;IAOnC,IAAI,WAAW,IAAI,MAAM,CAExB;CACJ"}

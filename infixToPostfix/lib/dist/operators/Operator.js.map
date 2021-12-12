@@ -1,0 +1,1 @@
+{"version":3,"file":"Operator.js","sourceRoot":"","sources":["../../src/operators/Operator.ts"],"names":[],"mappings":";;AAAA,+BAA+B;AAK/B,MAA8B,QAAQ;IAOlC,CAAC,cAAO,CAAC,MAAM,CAAC,CAAC,KAAW,EAAE,OAAa;QACvC,OAAO,OAAO,CAAC,OAAO,CAAC,GAAG,IAAI,CAAC,MAAM,EAAE,EAAE,SAAS,CAAC,CAAC;IACxD,CAAC;IAED,QAAQ;QACJ,OAAO,IAAI,CAAC,MAAM,CAAC;IACvB,CAAC;CACJ;AAdD,2BAcC"}
